@@ -25,10 +25,10 @@ This project focuses on basic DOM manipulation and JavaScript sorting in a clean
 
 ## 🎯 Features
 
-✅ View all students in a table  
-✅ Sort students alphabetically by **name**  
-✅ Sort students numerically by **age**  
-✅ Responsive and minimal user interface 
+* ✅ View all students in a table  
+* ✅ Sort students alphabetically by **name**  
+* ✅ Sort students numerically by **age**  
+* ✅ Responsive and minimal user interface 
 
 ---
 
